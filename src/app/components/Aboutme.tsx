@@ -19,7 +19,7 @@ export default function Aboutme() {
       <div className="text-center md:text-left max-w-xl">
         <h1 className="text-3xl font-bold mb-4">Sobre mim</h1>
         <h2 className="text-lg leading-relaxed">
-          Olá, sou <span className="font-semibold">Bia Rodrigues</span>. Atualmente estou atuando como estudante técnico, em informática e Estou construindo um perfil técnico completo com foco em tecnologia e inovação.
+          Olá, sou <span className="font-semibold">Bia Rodrigues</span>. desenvolvedora web apaixonada por tecnologia, inovação e pela arte de transformar ideias em soluções digitais eficientes. Desde o início da minha trajetória profissional, encontrei no desenvolvimento web um campo dinâmico e desafiador, onde criatividade e lógica caminham lado a lado para criar experiências únicas para os usuários.
         </h2>
       </div>
     </section>
