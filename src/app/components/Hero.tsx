@@ -7,9 +7,9 @@ const Hero = () => {
         alt="minha foto"
         className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
         />
-          <h1 className="text-5xl font-bold mb-4">Olá, eu sou bia</h1>
+          <h1 className="text-5xl font-bold mb-4">Olá, eu sou Bia Rodrigues</h1>
           <p className="text-xl mb-6">
-            Desenvolvedor Web apaixonado por criar interfaces incríveis e experiências digitais impactantes.
+            Desenvolvedora Web, apaixonada por criar interfaces incríveis e experiências digitais impactantes.
           </p>
           <a
             href="#projects"
